@@ -1,7 +1,9 @@
+Development and Operations
+
 ## What is DevOps
 - DevOps is the bridge between the operations team and the development team
 - Not only is DevOps a job role but it's a culture
-- t aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
+- It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
 
 ## Why DevOps
 -  Removes silos (communication barrier between teams)
