@@ -1,6 +1,6 @@
 # Development and Operations
 
-1. What is DevOps? 
+### 1. What is DevOps? 
 - DevOps is a set of practices that combines the operations team and the development team.
 It aims to shorten the systems development life cycle and provide continuous delivery with
 high software quality.
@@ -14,7 +14,7 @@ Five Main Stages in DevOps:
 
 
 
-2. Why DevOps?
+### 2. Why DevOps?
 - Before DevOps each team had to rely on one another before merging the two together
 and if there was a problem each team would often blame one another.
 
@@ -26,7 +26,7 @@ and team ethos amongst everyone
 
 
 
-3. Challenges of DevOps
+### 3. Challenges of DevOps
 - It takes time for a whole organisation to transition into a DevOps culture. Dealing with
 legacy systems and rebuilding applications to fit microservices architecture and adopting cloud
 computing takes a lot of time.
@@ -39,7 +39,7 @@ different way
 
 - Overcoming the development vs Operations is also another hurdle that may have to be overcome
  
-4. Benefits of DevOps
+### 4. Benefits of DevOps
 - The benefits of working within a DevOps culture are endless. The improved collaboration mentioned early
 reduces inefficiencies and saves time. DevOps also ensures the quality of software updates and infrastructure changes
 so they can be delivered more reliability and at a more rapid rate.
