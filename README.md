@@ -1,4 +1,4 @@
-#Development and Operations
+# Development and Operations
 
 ## What is DevOps
 - DevOps is the bridge between the operations team and the development team
